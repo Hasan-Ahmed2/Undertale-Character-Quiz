@@ -1,0 +1,28 @@
+body {
+ background-image: url("https://i.pinimg.com/originals/c2/88/85/c28885f07b9d1645a36f947bf3246cf0.jpg");
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.undertale-logo {
+  width: 300px;
+  height: 200px;
+}
+
+
+.header {
+  text-align: center;
+}
+
+.character {
+  color:white;
+  text-align: center;
+  border: solid;
+}
+
